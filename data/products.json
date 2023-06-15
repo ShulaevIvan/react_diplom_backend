@@ -481,7 +481,7 @@
             },
             {
                 "size": "18 US",
-                "available": false
+                "available": true
             }
         ]
     },
